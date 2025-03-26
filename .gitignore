@@ -1,0 +1,31 @@
+.qodo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos de dependências
+/vendor/
+/node_modules/
+
+# Arquivos de cache
+*.cache
+*.log
+
+# Arquivos de upload
+/uploads/
+/public/uploads/
+
+# Arquivos de configuração local
+config/local.php
