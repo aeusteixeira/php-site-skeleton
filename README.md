@@ -76,7 +76,7 @@ composer install
    - `url_site`: URL completa do seu site
    - Outras configurações conforme necessário
 
-4. Configure seu servidor web (Apache) para apontar para o diretório do projeto
+4. Configure seu servidor web (Apache) para apontar para o diretório do projeto.
 
 ## 🚀 Desenvolvimento
 
